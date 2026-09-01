@@ -55,7 +55,7 @@ def run_trading_bot():
             else:
                 print(" Target metrics stable. Monitoring...")
             print("-" * 60)
-            time.sleep(3600)
+            time.sleep(10)
         except KeyboardInterrupt:
             print("\n Shutting down systems securely.")
             break
