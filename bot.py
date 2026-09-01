@@ -10,8 +10,8 @@ exchange = ccxt.coinbase({
 
 SYMBOL = 'BTC/USDT'
 TIMEFRAME = '1h'
-SHORT_WINDOW = 10
-LONG_WINDOW = 30
+SHORT_WINDOW = 5
+LONG_WINDOW = 20
 
 def fetch_market_data(symbol, timeframe, limit=100):
     try:
