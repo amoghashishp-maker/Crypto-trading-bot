@@ -35,7 +35,7 @@ def calculate_signals(df):
     return df
 
 def run_trading_bot():
-    print(f"High-Frequency Quant Engine Initialized")
+    print(f"Engine Initialized")
     while True:
         try:
             df = fetch_market_data(SYMBOL, TIMEFRAME)
