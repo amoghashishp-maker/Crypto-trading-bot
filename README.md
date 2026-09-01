@@ -26,7 +26,7 @@ This is an network designed to automate cryptocurrency trading using python. Use
 
 * **Stats Infrastructure:** Pandas, NumPy
 
-\* \*\*Market Integration:\*\* CCXT API Framework
+* **Market Integration:** CCXT API Framework
 
 
 
