@@ -12,7 +12,7 @@ This is an network designed to automate cryptocurrency trading using python. Use
 
 
 
-\* \*\*Vector Optimization:\*\* Utilizes Pandas and NumPy` for vector mapping short term and long term averages.
+\* \*\*Vector Optimization:\*\* Utilizes Pandas and NumPy for vector mapping short term and long term averages.
 
 
 
