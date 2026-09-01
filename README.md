@@ -1,4 +1,4 @@
-\# Crypto Trading Engine-**FOR FLUCTUATING ENVIRONMENTS ONLY**
+# Crypto Trading Engine-**FOR FLUCTUATING ENVIRONMENTS ONLY**
 
 
 
@@ -6,25 +6,25 @@ This is an network designed to automate cryptocurrency trading using python. Use
 
 
 
-\## Key Framework Features
+## Key Framework Features
 
-\* \*\*Live Ingestion Pipeline:\*\* Shows Live market data matrices  without  exposure.
-
-
-
-\* \*\*Vector Optimization:\*\* Utilizes Pandas and NumPy for vector mapping short term and long term averages.
+* **Live Ingestion Pipeline:** Shows Live market data matrices  without  exposure.
 
 
 
-\* \*\*Execution Logs:\*\* Generates alerts that trigger when the short and long term trends cross.
+* **Vector Optimization:** Utilizes Pandas and NumPy for vector mapping short term and long term averages.
 
 
 
-\## Tech Stack \& Setup
+* **Execution Logs:** Generates alerts that trigger when the short and long term trends cross.
 
-\* \*\*Language:\*\* Python 3.14+
 
-\* \*\*Stats Infrastructure:\*\* Pandas, NumPy
+
+## Tech Stack & Setup
+
+* **Language:** Python 3.14+
+
+* **Stats Infrastructure:** Pandas, NumPy
 
 \* \*\*Market Integration:\*\* CCXT API Framework
 
